@@ -67,7 +67,7 @@ div#container{
 	/*quotes panel*/
 	div#box {
 		margin-top:15px;
-		width: 1000;
+		width: auto;
 		
 	}
 	div#box .box-top{
